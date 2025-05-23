@@ -1,1 +1,7 @@
 streamlit
+langchain>=0.3.25
+langchain-community>=0.3.24
+langchain-astradb
+openai
+astropy
+pydantic>=2.0
