@@ -7,4 +7,5 @@ langchain-astradb>=0.1.6
 openai>=1.14.3
 astrapy>=0.7.5
 pydantic>=2.5.3
+tiktoken>=0.5.1
 tqdm
